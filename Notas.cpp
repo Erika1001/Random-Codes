@@ -2,7 +2,6 @@
 #include <stdlib.h>
 int main () {	
 int n100,n50,n20,n10,n5,n2,n1,num;
-
 	printf("Informe o valor: ");
 	scanf("%d",&num);
 	printf ("\n Valor informado: %d",num);	
